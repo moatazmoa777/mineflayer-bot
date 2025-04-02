@@ -1,0 +1,12 @@
+{
+  "name": "mineflayer-bot",
+  "version": "1.0.0",
+  "description": "بوت Mineflayer يعمل على Aternos",
+  "main": "bot.js",
+  "dependencies": {
+    "mineflayer": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
